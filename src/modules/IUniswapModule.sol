@@ -40,5 +40,6 @@ abstract contract IUniswapModule is ISlingshotModule {
             address(this),
             block.timestamp
         );
+
     }
 }
